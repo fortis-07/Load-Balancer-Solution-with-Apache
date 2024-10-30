@@ -1,5 +1,8 @@
 # Apache Load Balancer Deployment for Tooling Website Solution
 
+![image](https://github.com/user-attachments/assets/cdeeda87-10f6-47a5-bc96-13d5a513256f)
+
+
 ## Objective
 In this project, we will enhance our Tooling Website solution by adding an **Apache Load Balancer** to distribute traffic between two Web Servers. This will allow users to access our website using a single URL.
 
